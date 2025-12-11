@@ -1,4 +1,4 @@
-# SecretSantaVBA
+
 # Secret Santa Optimized VBA Macro
 
 This repository contains a **VBA macro for Excel** that generates Secret Santa pairings while optimizing for:
